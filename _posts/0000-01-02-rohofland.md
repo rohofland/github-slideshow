@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Dit is RONALD's tekst
 Use the left arrow to go back!
